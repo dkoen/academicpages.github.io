@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Today in Daniel Koenigsberg"
 title_separator          : "-"
 name                     : &name "Daniel G. Koenigsberg"
-description              : &description "Premed postbac student at Columbia University."
+description              : &description "Premed student at Columbia University."
 url                      : https://dkoen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dkoen.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "D. G. Koenigsberg"
   avatar           : "158a236.jpg"
-  bio              : "Premedical postbac student at Columbia University. Previously software engineer at Triplelift. BA in Mathematics from Brandeis University."
+  bio              : "Premedical student at Columbia University. Previously software engineer at Triplelift. BA in Mathematics from Brandeis University."
   location         : "NYC"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
