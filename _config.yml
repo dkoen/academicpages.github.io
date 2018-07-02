@@ -84,7 +84,7 @@ author:
   location         : "NYC"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "hurray@dgk.today" 
   uri              :
   bitbucket        :
   codepen          :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/5890053/dkmonet
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "dgkoenigsberg"
   vine             :
   weibo            :
   xing             :
