@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Premedical Post Baccalaureate, Columbia University, Expected 2018
-  * Dean's List, GPA: 3.94 
+* Certificate in Premedical Sciences, Columbia University, 2018
+  * Dean's List, GPA: 3.84, MCAT: 520 (98th %tile)  
 * B.S. in Mathematics, Brandeis University, 2014
   * Dean's List, GPA: 3.5, Mathematics Major GPA: 3.7 
   * Wrote about Astrophysics for the school newspaper, The Hoot
@@ -50,34 +50,3 @@ Work experience
 * May 2012 - May 2013: Advanced Lab Assistant, Radio Astronomy / Fourier Analysis, 
 Physics, Brandeis University 
   * Analyzed data from recent experiments done with the Very Large Array and Very Long Baseline Array using Astronomical Image Processing System (AIPS) and Difmap.
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
